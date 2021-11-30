@@ -43,12 +43,10 @@ if exist %UserProfile%\documents\Call of Duty Vanguard\ (
 
 color 0B
 cls
-echo Shit for Vanguard has been cleaned
+echo Stuff for Vanguard has been cleaned
 echo Open Up The Blizzard Launcher and Scan And Repair
 echo This is not 100 percent guaranteed to work for everyone, everytime
-echo Made in under 2 mins but with love in my heart
-echo https://discord.gg/t2SmwaZyt7 For any issues
-echo Love SpiroTech
+echo Made in under 2 mins
 
 
 :end
